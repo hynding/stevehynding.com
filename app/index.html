@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Steve Hynding's Domain - Test Site</title>
+        <link rel="stylesheet" type="text/css" href="/bower_components/angular-material/angular-material.css">
+        <script>
+            window.appConfig = {
+                webroot: "../public"
+            };
+        </script>
+        <script data-main="config/require.config.js" src="../bower_components/requirejs/require.js"></script>
+    </head>
+    <body ng-cloak layout="row">
+        <md-sidenav></md-sidenav>
+        <div flex ui-view></div>
+    </body>
+</html>

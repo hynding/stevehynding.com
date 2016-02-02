@@ -1,0 +1,24 @@
+{
+  "name": "stevehynding.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"watch": "npm-watch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"app": "http-server . -a localhost -p 8001 -c-1",
+	"prestart": "npm run build",
+	"start": "http-server public -a localhost -p 8001 -c-1 -P ",
+    "build": "node node_modules/requirejs/bin/r -o app/config/build.config.js paths.requireLib=../bower_components/requirejs/require include=requireLib"
+  },
+  "watch": {
+	"build": "app/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.8.0",
+    "karma-requirejs": "^0.2.2",
+    "requirejs": "^2.1.20"
+  }
+}

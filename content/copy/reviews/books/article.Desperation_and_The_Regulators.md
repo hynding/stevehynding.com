@@ -1,0 +1,1 @@
+Most characters share identical personalities, the antagonist and its origins are the same in every way and both plots duration span in a relatively short period of time in a relatively small setting; however, it is clear in the first 10 pages of both that they're not sharing the same universe.
