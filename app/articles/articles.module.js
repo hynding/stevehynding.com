@@ -3,8 +3,8 @@
 	function(angular, showdown, appConfig, articlesConfig){
 		angular.module("articles", ["ngSanitize"]).
 			config(articlesConfig).
-			value("githubRepo", "https://api.github.com/repos/hynding/angular-toybox/contents/").
-			value("defaultArticle", "README.md").
+			value("githubRepo", "https://api.github.com/repos/hynding/stevehynding.com/contents/").
+			value("defaultArticle", "content/copy/articles/article.Steve_Hyndings_Domain.md").
 			service("Markdown", [showdown.Converter]).
 			factory("GithubFile", ["$http", "githubRepo", function($http, githubRepo){
 				return {
