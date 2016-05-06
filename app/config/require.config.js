@@ -1,41 +1,19 @@
 "use strict";
 (function(require){
-	var baseUrl = ".";
-
-	function getBowerPath(dirs, min, PS) {
-		dirs = typeof dirs === "string" ? [dirs, dirs]: dirs;
-		dirs.unshift("bower_components");
-		dirs.unshift("..");
-
-		return dirs.join(PS||"/") + (min?".min":"");
-	}
-
-	var paths = {
-		"angular":
-			getBowerPath("angular"),
-		"angular-animate":
-			getBowerPath("angular-animate"),
-		"angular-aria":
-			getBowerPath("angular-aria"),
-		"angular-material":
-			getBowerPath("angular-material"),
-		"angular-sanitize":
-			getBowerPath("angular-sanitize"),
-		"angular-ui-router":
-			getBowerPath(["angular-ui-router", "release", "angular-ui-router"]),
-		"less":
-			getBowerPath(["less", "dist", "less"]),
-		"text":
-			getBowerPath(["requirejs-text", "text"]),
-		"pretender":
-			getBowerPath(["pretender", "pretender"]),
-		"showdown":
-			getBowerPath(["showdown", "dist", "showdown"])
-	};
 
 	require.config({
-		baseUrl: baseUrl,
-		paths: paths,
+		paths: {
+			"angular": "../bower_components/angular/angular",
+			"angular-animate": "../bower_components/angular-animate/angular-animate",
+			"angular-aria": "../bower_components/angular-aria/angular-aria",
+			"angular-material": "../bower_components/angular-material/angular-material",
+			"angular-sanitize": "../bower_components/angular-sanitize/angular-sanitize",
+			"angular-ui-router": "../bower_components/angular-ui-router/release/angular-ui-router",
+			"less": "../bower_components/less/dist/less",
+			"text": "../bower_components/requirejs-text/text",
+			"pretender": "../bower_components/pretender/pretender",
+			"showdown": "../bower_components/showdown/dist/showdown"
+		},
 		shim: {
 			"angular" : {"exports" : "angular"},
 			"angular-animate": {

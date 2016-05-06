@@ -14,6 +14,11 @@ Harry Potter and the Sorcerer's Stone
 4. Charlie and the Chocolate Factory (June 2015)
 5. The Witches (September 2015)
 6. James and the Giant Peach (November 2015)
+7. Charlie and the Great Glass Elevator (December 2015)
+8. The Magic Finger (January 2016)
+9. George's Marvelous Medicine (March 2016)
+10. The Twits (April 2016)
+11. Esio Trot (April 2016)
 
 ###Beverly Cleary
 1. The Mouse and the Motorcycle (February 2015)
@@ -25,3 +30,13 @@ Harry Potter and the Sorcerer's Stone
 
 ###Award Winners
 1. Because of Winn-Dixie (June 2015)
+
+###Junie B. Jones
+MANY
+
+###Nate the Great
+MANY
+
+###Biographies
+1. Anne Frank (April 2016)
+2. Helen Keller

@@ -3,8 +3,7 @@ function(articlesHtml){
 
 	return ["$stateProvider", "$urlRouterProvider", ArticlesConfig];
 
-	function ArticlesConfig($stateProvider, $urlRouterProvider) {
-			$urlRouterProvider.otherwise("/");
+	function ArticlesConfig($stateProvider) {
 
 			$stateProvider
 				.state("home", {

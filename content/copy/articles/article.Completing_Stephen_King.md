@@ -43,8 +43,6 @@ Here are the Stephen King books I've read. Except for a limited few, they've mos
 34. The Regulators (started:20150919;completed:20150927)
 35. Bag of Bones (completed:20151012)
 36. The Girl Who Loved Tom Gordon (completed:20151019)
-
-# To Read
 1. On Writing
 2. Everything's Eventual
 3. Black House
@@ -54,7 +52,13 @@ Here are the Stephen King books I've read. Except for a limited few, they've mos
 7. Cell
 8. Lisey's Story
 9. Blaze (Bachman)
+
+# Reading
+
 10. Duma Key
+
+# To Read
+
 11. Just After Sunset
 12. Under the Dome
 13. Full Dark, No Stars

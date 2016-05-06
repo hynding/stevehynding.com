@@ -1,10 +1,16 @@
-define(["angular", "angular-material", "angular-animate", "angular-aria", "articles/articles.module"], function(angular) {
-	angular.module("app", ["ngMaterial", "ngAnimate", "ngAria", "ui.router", "articles"]).
-		config(["$mdThemingProvider", function($mdThemingProvider){
-			$mdThemingProvider.theme("default").
-				primaryPalette("blue-grey").
-				dark();
-		}]);
+define([
+	'angular', 'app.config',
+	'angular-material', 'angular-animate', 'angular-aria', 'angular-ui-router',
+	'articles/articles.module'
+], function(angular, appConfig) {
 
-	angular.bootstrap(document, ["app"]);
-})
+	var appName = 'app',
+		appDependencies = [
+			'ngMaterial', 'ngAnimate', 'ngAria', 'ui.router', 'articles'
+		];
+
+	angular.module( appName, appDependencies).
+		config( appConfig );
+
+	angular.bootstrap( document, [ appName ]);
+});
