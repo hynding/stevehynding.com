@@ -15,7 +15,7 @@
 	"build": "app/**/*.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "http-server": "^0.8.0",
     "karma-requirejs": "^0.2.2",
