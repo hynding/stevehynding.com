@@ -43,24 +43,24 @@ Here are the Stephen King books I've read. Except for a limited few, they've mos
 34. The Regulators (started:20150919;completed:20150927)
 35. Bag of Bones (completed:20151012)
 36. The Girl Who Loved Tom Gordon (completed:20151019)
-1. On Writing
-2. Everything's Eventual
-3. Black House
-4. From a Buick 8
-5. Faithful (non-fiction)
-6. The Colorado Kid
-7. Cell
-8. Lisey's Story
-9. Blaze (Bachman)
+1. On Writing (completed:20160305)
+2. Everything's Eventual (completed:20160106)
+3. Black House (completed:20160125)
+4. From a Buick 8 (completed:0206)
+5. Faithful (non-fiction) (completed:20160317)
+6. The Colorado Kid (completed:20160312)
+7. Cell (completed:20160320)
+8. Lisey's Story (completed:20160406)
+9. Blaze (Bachman) (completed:2016)
+10. Duma Key (completed:20160504)
 
 # Reading
 
-10. Duma Key
+1. Just After Sunset (started:050116)
+2. Under the Dome (started:051416)
 
 # To Read
 
-11. Just After Sunset
-12. Under the Dome
 13. Full Dark, No Stars
 14. 11/22/63
 15. Joyland
