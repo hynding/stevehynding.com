@@ -3,7 +3,7 @@
 The purpose of this article is to journal the activities experienced with my daughter.
 
 ##Currently Reading
-Harry Potter and the Sorcerer's Stone
+Mrs. Frisby and the Rats of NYHM
 
 ##Chapter Books Read Together
 
@@ -16,9 +16,12 @@ Harry Potter and the Sorcerer's Stone
 6. James and the Giant Peach (November 2015)
 7. Charlie and the Great Glass Elevator (December 2015)
 8. The Magic Finger (January 2016)
+9. The Gremlins (February 2016)
 9. George's Marvelous Medicine (March 2016)
 10. The Twits (April 2016)
 11. Esio Trot (April 2016)
+12. The Giraffe, the Pelly and Me (May 2016)
+13. Danny The Champion of the World (May 2016)
 
 ###Beverly Cleary
 1. The Mouse and the Motorcycle (February 2015)
