@@ -53,23 +53,24 @@ Here are the Stephen King books I've read. Except for a limited few, they've mos
 8. Lisey's Story (completed:20160406)
 9. Blaze (Bachman) (completed:2016)
 10. Duma Key (completed:20160504)
+1. Just After Sunset (started:20160501)
+2. Under the Dome (started:20160514)
+3. Storm of the Century (started:20160521;completed:20160704)
+13. Full Dark, No Stars (completed:201606)
+14. 11/22/63 (completed:20160727)
 
 # Reading
 
-1. Just After Sunset (started:050116)
-2. Under the Dome (started:051416)
+15. Joyland
 
 # To Read
 
-13. Full Dark, No Stars
-14. 11/22/63
-15. Joyland
 16. Dr. Sleep
 17. Mr. Mercedes
 18. Revival
 19. Finders Keepers
 20. The Bazaar of Bad Dreams
-21. End of Watch (6/7/16)
+21. End of Watch (published:6/7/16)
 
 
 Notes
