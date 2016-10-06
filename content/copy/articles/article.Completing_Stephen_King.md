@@ -43,10 +43,10 @@ Here are the Stephen King books I've read. Except for a limited few, they've mos
 34. The Regulators (started:20150919;completed:20150927)
 35. Bag of Bones (completed:20151012)
 36. The Girl Who Loved Tom Gordon (completed:20151019)
-1. On Writing (completed:20160305)
 2. Everything's Eventual (completed:20160106)
 3. Black House (completed:20160125)
 4. From a Buick 8 (completed:0206)
+1. On Writing (completed:20160305)
 5. Faithful (non-fiction) (completed:20160317)
 6. The Colorado Kid (completed:20160312)
 7. Cell (completed:20160320)
@@ -58,18 +58,17 @@ Here are the Stephen King books I've read. Except for a limited few, they've mos
 3. Storm of the Century (started:20160521;completed:20160704)
 13. Full Dark, No Stars (completed:201606)
 14. 11/22/63 (completed:20160727)
+15. Joyland (completed:20160901)
+16. Dr. Sleep (completed:20160909)
+17. Mr. Mercedes (completed:20160920)
+18. Revival (completed:20160928)
 
 # Reading
-
-15. Joyland
+19. Finders Keepers
+20. The Bazaar of Bad Dreams
 
 # To Read
 
-16. Dr. Sleep
-17. Mr. Mercedes
-18. Revival
-19. Finders Keepers
-20. The Bazaar of Bad Dreams
 21. End of Watch (published:6/7/16)
 
 
